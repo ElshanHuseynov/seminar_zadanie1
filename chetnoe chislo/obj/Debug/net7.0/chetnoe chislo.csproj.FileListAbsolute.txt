@@ -1,0 +1,15 @@
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/bin/Debug/net7.0/chetnoe chislo
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/bin/Debug/net7.0/chetnoe chislo.deps.json
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/bin/Debug/net7.0/chetnoe chislo.runtimeconfig.json
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/bin/Debug/net7.0/chetnoe chislo.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/bin/Debug/net7.0/chetnoe chislo.pdb
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.csproj.AssemblyReference.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.AssemblyInfoInputs.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.AssemblyInfo.cs
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.csproj.CoreCompileInputs.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/refint/chetnoe chislo.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.pdb
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/chetnoe chislo.genruntimeconfig.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/chetnoe chislo/obj/Debug/net7.0/ref/chetnoe chislo.dll
