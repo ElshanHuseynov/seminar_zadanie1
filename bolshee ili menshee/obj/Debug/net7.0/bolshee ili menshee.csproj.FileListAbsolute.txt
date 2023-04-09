@@ -1,0 +1,15 @@
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/bin/Debug/net7.0/bolshee ili menshee
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/bin/Debug/net7.0/bolshee ili menshee.deps.json
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/bin/Debug/net7.0/bolshee ili menshee.runtimeconfig.json
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/bin/Debug/net7.0/bolshee ili menshee.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/bin/Debug/net7.0/bolshee ili menshee.pdb
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.csproj.AssemblyReference.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.AssemblyInfoInputs.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.AssemblyInfo.cs
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.csproj.CoreCompileInputs.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/refint/bolshee ili menshee.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.pdb
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/bolshee ili menshee.genruntimeconfig.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee ili menshee/obj/Debug/net7.0/ref/bolshee ili menshee.dll
