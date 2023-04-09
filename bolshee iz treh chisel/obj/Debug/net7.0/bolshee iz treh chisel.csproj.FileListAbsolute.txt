@@ -1,0 +1,15 @@
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/bin/Debug/net7.0/bolshee iz treh chisel
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/bin/Debug/net7.0/bolshee iz treh chisel.deps.json
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/bin/Debug/net7.0/bolshee iz treh chisel.runtimeconfig.json
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/bin/Debug/net7.0/bolshee iz treh chisel.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/bin/Debug/net7.0/bolshee iz treh chisel.pdb
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.csproj.AssemblyReference.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.AssemblyInfoInputs.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.AssemblyInfo.cs
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.csproj.CoreCompileInputs.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/refint/bolshee iz treh chisel.dll
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.pdb
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/bolshee iz treh chisel.genruntimeconfig.cache
+/Users/elsangusejnov/Desktop/seminar_zadanie1/bolshee iz treh chisel/obj/Debug/net7.0/ref/bolshee iz treh chisel.dll

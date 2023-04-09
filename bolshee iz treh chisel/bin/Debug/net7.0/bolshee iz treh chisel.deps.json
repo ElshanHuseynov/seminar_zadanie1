@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "bolshee iz treh chisel/1.0.0": {
+        "runtime": {
+          "bolshee iz treh chisel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bolshee iz treh chisel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
